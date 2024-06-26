@@ -1,3 +1,3 @@
-This Project is related to CODSOFT internship.
+This Project is related to CODSOFT Internship.
 This is the second project of Task1 of Web-Devlopment.
 This Project is related to Portfolio which contain my projects and skills details.
